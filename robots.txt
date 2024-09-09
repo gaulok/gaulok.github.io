@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gaulok.github.io/Lrp/sitemap.Lrp.gz
